@@ -7,19 +7,10 @@ ISO 9001:2015
 
 
 
-
-
-
 TÀI LIỆU HDSD
 
 HỆ THỐNG CRM
 (Vai trò CM, OM)
-
-
-
-
-
-
 
 
 Hà Nội 2018
@@ -156,6 +147,8 @@ o	Quản lý toàn bộ học sinh thu phí
 o	Kết nối với hệ thống Kế toán Effect 
 ▪	Báo cáo
 2	Đối tượng
+
+
 STT	Đối tượng	Công việc
 1	Tổng giám đốc/Phó tổng giám đốc	Xem và truy xuất toàn quyền trên hệ thống
 2	Giám đốc vùng	Thêm mới yêu cầu.Phê duyệt yêu cầu.Thực hiện và truy xuất toàn bộ dữ liệu thuộc vùng quản lý
@@ -307,7 +300,7 @@ o	File đính kèm: Tải một file đính kèm từ máy tính cá nhân với
 ➢	Bước 1: Tại menu trái chọn Vận hành/Bảo lưu, màn hình danh sách hiển thị như sau:
  
 Màn hình danh sách bảo lưu
-➢	Bước 2: Kích nút Duyệt, màn hình hiển thị như sau:
+➢	Bước 2: Kích núts Duyệt, màn hình hiển thị như sau:
  
 Màn hình phê duyệt bảo lưu
 ➢	Bước 3: Trên danh sách bảo lưu, NSD chọn một học sinh và thực hiện thao tác:
