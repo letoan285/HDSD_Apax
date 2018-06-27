@@ -26,8 +26,8 @@ Hà Nội 2018
 
 
 
-DANH MỤC THUẬT NGỮ VÀ TỪ VIẾT TẮT
-STT	Thuật ngữ/Viết tắt	Ý nghĩa
+##DANH MỤC THUẬT NGỮ VÀ TỪ VIẾT TẮT
+##STT	Thuật ngữ/Viết tắt	Ý nghĩa
 1.		NSD	Người sử dụng
 2.		LMS	Hệ thống quản lý đào tạo của học sinh
 3.		Effect	Hệ thống kế toán
@@ -110,7 +110,7 @@ PHẦN II.	HƯỚNG DẪN SỬ DỤNG CHƯƠNG TRÌNH	10
 18.1	Mục đích	55
 18.2	Cập nhật thông tin CM của lớp học	55
  
-PHẦN I.	TỔNG QUAN
+####PHẦN I.	TỔNG QUAN
 1	Mục đích
 ●	Hệ thống CRM (Quản lý khách hàng) bao gồm các chức năng sau:
 ➢	Quản lý học sinh: 
