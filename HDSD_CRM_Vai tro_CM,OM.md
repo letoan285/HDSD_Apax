@@ -7,7 +7,7 @@
 
 
 
-
+<img src="./images/1.png" alt="">
 
 TÀI LIỆU HDSD
 
@@ -26,8 +26,8 @@ Hà Nội 2018
 
 
 
-##DANH MỤC THUẬT NGỮ VÀ TỪ VIẾT TẮT
-##STT	Thuật ngữ/Viết tắt	Ý nghĩa
+## DANH MỤC THUẬT NGỮ VÀ TỪ VIẾT TẮT
+## STT	Thuật ngữ/Viết tắt	Ý nghĩa
 1.		NSD	Người sử dụng
 2.		LMS	Hệ thống quản lý đào tạo của học sinh
 3.		Effect	Hệ thống kế toán
